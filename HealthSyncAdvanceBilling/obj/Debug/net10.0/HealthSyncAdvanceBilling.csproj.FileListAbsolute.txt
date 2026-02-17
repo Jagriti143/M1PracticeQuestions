@@ -1,0 +1,14 @@
+C:\Users\Karan\Desktop\M1 Questions\HealthSyncAdvanceBilling\bin\Debug\net10.0\HealthSyncAdvanceBilling.exe
+C:\Users\Karan\Desktop\M1 Questions\HealthSyncAdvanceBilling\bin\Debug\net10.0\HealthSyncAdvanceBilling.deps.json
+C:\Users\Karan\Desktop\M1 Questions\HealthSyncAdvanceBilling\bin\Debug\net10.0\HealthSyncAdvanceBilling.runtimeconfig.json
+C:\Users\Karan\Desktop\M1 Questions\HealthSyncAdvanceBilling\bin\Debug\net10.0\HealthSyncAdvanceBilling.dll
+C:\Users\Karan\Desktop\M1 Questions\HealthSyncAdvanceBilling\bin\Debug\net10.0\HealthSyncAdvanceBilling.pdb
+C:\Users\Karan\Desktop\M1 Questions\HealthSyncAdvanceBilling\obj\Debug\net10.0\HealthSyncAdvanceBilling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karan\Desktop\M1 Questions\HealthSyncAdvanceBilling\obj\Debug\net10.0\HealthSyncAdvanceBilling.AssemblyInfoInputs.cache
+C:\Users\Karan\Desktop\M1 Questions\HealthSyncAdvanceBilling\obj\Debug\net10.0\HealthSyncAdvanceBilling.AssemblyInfo.cs
+C:\Users\Karan\Desktop\M1 Questions\HealthSyncAdvanceBilling\obj\Debug\net10.0\HealthSyncAdvanceBilling.csproj.CoreCompileInputs.cache
+C:\Users\Karan\Desktop\M1 Questions\HealthSyncAdvanceBilling\obj\Debug\net10.0\HealthSyncAdvanceBilling.dll
+C:\Users\Karan\Desktop\M1 Questions\HealthSyncAdvanceBilling\obj\Debug\net10.0\refint\HealthSyncAdvanceBilling.dll
+C:\Users\Karan\Desktop\M1 Questions\HealthSyncAdvanceBilling\obj\Debug\net10.0\HealthSyncAdvanceBilling.pdb
+C:\Users\Karan\Desktop\M1 Questions\HealthSyncAdvanceBilling\obj\Debug\net10.0\HealthSyncAdvanceBilling.genruntimeconfig.cache
+C:\Users\Karan\Desktop\M1 Questions\HealthSyncAdvanceBilling\obj\Debug\net10.0\ref\HealthSyncAdvanceBilling.dll
